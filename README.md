@@ -98,17 +98,7 @@
     <li class="page-item"><a class="page-link" href="javascript:void(0);">2</a></li>
     <li class="page-item"><a class="page-link" href="javascript:void(0);">Next</a></li>
   </ul>
-</div>
-<div class="container">
-  <h2>Breadcrumbs</h2>
-  <p>The .breadcrumb class indicates the current page's location within a navigational hierarchy:</p>                  
-  <ul class="breadcrumb">
-    <li class="breadcrumb-item"><a href="#">Photos</a></li>
-    <li class="breadcrumb-item"><a href="#">Summer 2017</a></li>
-    <li class="breadcrumb-item"><a href="#">Italy</a></li>
-    <li class="breadcrumb-item active">Rome</li>
-  </ul>
-</div>
+
 
 </body>
 </html>
